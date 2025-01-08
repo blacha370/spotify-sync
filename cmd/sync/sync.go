@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/blacha370/spotify-sync/internal/app/sync"
+)
 
 func main() {
-	fmt.Println("Hello world")
+	sync.Sync()
 }
