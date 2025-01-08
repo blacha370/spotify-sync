@@ -1,3 +1,3 @@
-module github.com/YOUR-USER-OR-ORG-NAME/YOUR-REPO-NAME
+module github.com/blacha370/spotify-sync
 
 go 1.22.2
