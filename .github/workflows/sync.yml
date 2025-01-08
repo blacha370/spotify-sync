@@ -1,4 +1,4 @@
-Name: Sync
+name: Sync
 
 on:
   pull_request:
